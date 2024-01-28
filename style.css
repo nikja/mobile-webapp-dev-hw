@@ -1,0 +1,21 @@
+#main {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#profile-pic {
+    width: 200px;
+    float: left;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#attending-reasons{
+    clear: both;
+}
